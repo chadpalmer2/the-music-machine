@@ -1,24 +1,11 @@
-# README
+# The Music Machine - Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Music Machine is a web application for creating, editing, and saving simple, looping beats.
 
-Things you may want to cover:
+# Installation
 
-* Ruby version
+Git pull both this repository and the corresponding [frontend](https://github.com/chadpalmer2/the-music-machine-frontend). Launch this backend on localhost and open the index.html in the frontend in the browser of your choice.
 
-* System dependencies
+# Usage
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For usage, consult [this demo video](https://www.youtube.com/watch?v=leRIVEOUZWE&feature=youtu.be).
